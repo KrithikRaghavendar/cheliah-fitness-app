@@ -21,19 +21,20 @@ A premium Flutter-based fitness tracking application focused on immersive workou
 ## 📱 Screenshots
 
 ### Welcome Screen
-(Add screenshot here)
+![Welcome Screen](assets/images/screenshots/home.png)
 
 ### Dashboard
-(Add screenshot here)
+![Dashboard](assets/images/screenshots/dashboard.png)
 
 ### Weekly Progress
-(Add screenshot here)
+![Weekly Progress](assets/images/screenshots/Weekly%20Progress.png)
+
 
 ### Workout Session
-(Add screenshot here)
+![Workout Session](assets/images/screenshots/Workout%20Session.png)
 
 ### Workout Completion
-(Add screenshot here)
+![Workout Completion](assets/images/screenshots/Workout%20Completion.png)
 
 ---
 
@@ -41,9 +42,9 @@ A premium Flutter-based fitness tracking application focused on immersive workou
 
 - Flutter
 - Dart
-- Material UI
-- Custom Animations
-- Media Session Integration
+- Custom animations
+- Glassmorphism UI
+- Neon design system
 
 ---
 
