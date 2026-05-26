@@ -42,9 +42,6 @@ A premium Flutter-based fitness tracking application focused on immersive workou
 
 - Flutter
 - Dart
-- Custom animations
-- Glassmorphism UI
-- Neon design system
 
 ---
 
